@@ -1,0 +1,23 @@
+<ImplementationGuide xmlns="http://hl7.org/fhir">
+  <url value="https://simplifier.net/guide/aboutfhir" />
+  <name value="FHIR Q&amp;A" />
+  <status value="draft" />
+  <description />
+  <fhirVersion value="STU3" />
+  <binary value="aboutfhir-TreeTable.css" />
+  <page>
+    <title value="FHIR Q&amp;A" />
+    <page>
+      <source value="Newitem.md" />
+      <title value="What's FHIR?" />
+      <kind value="page" />
+      <format value="text/markdown" />
+    </page>
+    <page>
+      <source value="ShouldmyEHRspeakFHIR.md" />
+      <title value="Should my EHR speak FHIR?" />
+      <kind value="page" />
+      <format value="text/markdown" />
+    </page>
+  </page>
+</ImplementationGuide>
