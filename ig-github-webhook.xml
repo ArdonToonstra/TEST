@@ -13,4 +13,10 @@
       <format value="text/markdown" />
     </page>
   </page>
+    <page>
+      <source value="Profiles.md" />
+      <title value="Profiles" />
+      <kind value="page" />
+      <format value="text/markdown" />
+    </page>
 </ImplementationGuide>
